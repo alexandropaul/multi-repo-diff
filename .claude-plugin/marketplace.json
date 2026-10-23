@@ -1,0 +1,5 @@
+{
+  "name": "multi-repo-diff",
+  "owner": { "name": "alexandropaul" },
+  "plugins": [{ "name": "multi-repo-diff", "source": "./" }]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "multi-repo-diff",
+  "version": "0.1.0",
+  "description": "Side pane with the uncommitted git diff of every repo under the working directory",
+  "types": "./types/index.d.ts"
+}
