@@ -1,10 +1,10 @@
 # multi-repo-diff
 
-A side pane with the uncommitted git diff of every repo under the working directory. Open it with `/repo-diff`.
+A Claude Code plugin that adds a side pane with the uncommitted git diff of every repo under the working directory. Open it with `/repo-diff`.
 
 ## Install
 
-At the prompt of a terminal session:
+At the Claude Code prompt of a terminal session:
 
 ```
 /plugin install multi-repo-diff --marketplace alexandropaul/multi-repo-diff
