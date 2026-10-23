@@ -16,4 +16,4 @@ From a shell:
 claude plugin install multi-repo-diff --marketplace alexandropaul/multi-repo-diff
 ```
 
-The repository is private: the install works for people who can read it on GitHub and whose machine holds a git credential for github.com (an SSH key, or `gh auth login` then `gh auth setup-git`).
+The repository is public, so no GitHub login is needed to install it.
